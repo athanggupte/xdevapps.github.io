@@ -4,11 +4,11 @@ I'm passionate about computers and software especially the architecture design d
 I'm also interested in Artificial Intelligence especially Natural Language Processing, Reinforcement Learning, and Causal Intelligence.
 
 # Projects
-## [Apex Game Engine](/ApexGameEngine) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](github.com/xdevapps/ApexGameEngine)
+## [Apex Game Engine](/ApexGameEngine) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexGameEngine)
 
-## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](github.com/xdevapps/Neurons)
+## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/Neurons)
 
-## [ApexIK](/ApexIK) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](github.com/xdevapps/ApexIK)
+## [ApexIK](/ApexIK) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexIK)
 
 
 # Apart from tech

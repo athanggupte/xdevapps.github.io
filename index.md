@@ -5,13 +5,18 @@ I'm also enthusiastic about research in Artificial Intelligence especially Natur
 
 # Projects
 ## [Apex Game Engine](/ApexGameEngine) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexGameEngine)
+* My pet project, under which I am learning to develop my own C++ OpenGL game engine. Inspired by [The Game Engine series](https://youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT), [LearnOpenGL](https://learnopengl.com/) and [Game Engine Architecture book](https://www.gameenginebook.com/).
 
 ## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/Neurons)
 
 ## [ApexIK](/ApexIK) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexIK)
 
 # Publications
-## [Knowledge Graph Generation From Text Using Neural Machine Translation Techniques](https://ieeexplore.ieee.org/document/9510164/)
+### [Knowledge Graph Generation From Text Using Neural Machine Translation Techniques](https://ieeexplore.ieee.org/document/9510164/)
+<details> <summary>Abstract</summary>
+  
+  * We did research yayyyy
+</details>
 
 # Apart from tech
 Music🎶 Guitar🎸 Tennis🎾

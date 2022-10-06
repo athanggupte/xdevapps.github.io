@@ -8,7 +8,10 @@ I'm also enthusiastic about research in Artificial Intelligence especially Natur
 ## [Apex Game Engine](/ApexGameEngine) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexGameEngine)
 * My pet project, under which I am learning to develop my own C++ OpenGL game engine. Inspired by [The Game Engine series](https://youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT), [LearnOpenGL](https://learnopengl.com/) and [Game Engine Architecture book](https://www.gameenginebook.com/).
 
-<iframe width="800" src="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4"> </iframe>
+<video width="800" height="450" controls>
+  <source src="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4" type="video/mp4">
+  Download <a href="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4">mp4</a>
+</video>
 
 
 ## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/Neurons)

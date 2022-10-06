@@ -12,6 +12,11 @@ I'm also enthusiastic about research in Artificial Intelligence especially Natur
 https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4
 
 
+<video width="640" height="480" controls>
+  <source src="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4" type="video/mp4">
+  Download <a href="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4">mp4</a>
+</video>
+
 ## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/Neurons)
 * A browser-based GUI neural network editor for designing neural network architectures with Keras backend.
 

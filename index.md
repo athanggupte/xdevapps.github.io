@@ -1,12 +1,16 @@
 # About me
 I am a Computer Science Engineer from India.  
 I'm passionate about computers and software especially the architecture design dealing with interplay of the various subsystems. Thus game engines fascinate me as they involve several interconnected modules that need to work together efficiently in order to provide realtime performance.  
-I'm also enthusiastic about research in Artificial Intelligence especially Natural Language Processing, Reinforcement Learning, and Causal Intelligence. The applicaitons of AI in general reasoning and sentient systems is fascinating and I intend to delve deeper into that.
+I'm also enthusiastic about research in Artificial Intelligence especially Natural Language Processing, Reinforcement Learning, and Causal Intelligence. The applicaitons of AI in general reasoning and sentient systems is fascinating and I dabble.
 
 # Projects
 (The webpage is under reconstruction, so some information may be missing or out of date)
 ## [Apex Game Engine](/ApexGameEngine) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/ApexGameEngine)
 * My pet project, under which I am learning to develop my own C++ OpenGL game engine. Inspired by [The Game Engine series](https://youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT), [LearnOpenGL](https://learnopengl.com/) and [Game Engine Architecture book](https://www.gameenginebook.com/).
+
+
+https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4
+
 
 ## [Neurons](/Neurons) [<img src="assets/GitHub-Mark/PNG/GitHub-Mark-32px.png" alt="GitHub repo" width="20px">](https://github.com/xdevapps/Neurons)
 * A browser-based GUI neural network editor for designing neural network architectures with Keras backend.
@@ -22,3 +26,4 @@ I'm also enthusiastic about research in Artificial Intelligence especially Natur
 
 # Apart from tech
 Music🎶 Guitar🎸 Tennis🎾
+

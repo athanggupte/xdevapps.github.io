@@ -13,6 +13,10 @@ I'm also enthusiastic about research in Artificial Intelligence especially Natur
   Download <a href="https://user-images.githubusercontent.com/45060273/194432860-0ba5dbe1-848b-4014-9f10-dd253f9fcbd5.mp4">mp4</a>
 </video>
 
+#### Update 01/10/2023 - Added Bloom effect
+
+![bloom-demo](https://user-images.githubusercontent.com/45060273/211588060-1490bed0-105d-4d5b-b7a9-e2e9a98a555f.png)
+
 ## [Un-Real](https://athang213.itch.io/un-real)
 * 2D side-scroller adventure puzzle game made for the [Brackeys GameJam 2022.1](https://itch.io/jam/brackeys-7/rate/1420119).
 
